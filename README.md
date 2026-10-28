@@ -1,5 +1,5 @@
 # MAL3018 Computing Project
-## AI-Assisted CCTV System for Physical Violence Detection with Tamper-Evident Footage in Malaysian Schools
+## AI-Integrated CCTV System for Hazard Detection with Tamper-Evident Logging in Malaysian Nursery and Child Care 
 
 ### Student Name: Celine Tan Tze Wern
 ### Student ID: BSCS2509249
